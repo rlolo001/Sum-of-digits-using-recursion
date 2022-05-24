@@ -1,11 +1,4 @@
-package com.company;
-/*
-Slide 17
-Write a program in Java to count the digits of a given number using recursion.
-
- */
-
-public class ExerciseD {
+public class SumOfDigits {
     public static int countNumbers(int number){
         int count = number;
 
